@@ -232,9 +232,9 @@ class _FancyStepperState extends State<FancyStepper>
   void onHorizontalDragEnd(DragEndDetails detials) {
     if (timer?.isActive ?? false) {
       if (_dragOffset.dx > 0) {
-        forward(const Duration(milliseconds: 400));
+        forward(const Duration(milliseconds: 500));
       } else {
-        backward(const Duration(milliseconds: 400));
+        backward(const Duration(milliseconds: 500));
       }
     }
 
