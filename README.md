@@ -28,3 +28,6 @@ https://github.com/AliDeeb/fancy-stepper/assets/47333501/f8cbd864-fa26-462c-b674
 
 ## Built with
 ![flutter](https://github.com/AliDeeb/fancy-stepper/assets/47333501/c3895a2d-5975-495e-9af5-11bd37d70edc) ![dart](https://github.com/AliDeeb/fancy-stepper/assets/47333501/12682adf-fa0c-4924-bc8d-af3aa8d3df58)
+
+## Contributions
+All contributions are welcome!
